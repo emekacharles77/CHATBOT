@@ -84,3 +84,7 @@ chatInput.addEventListener("keydown", (e)=>{
         generate()
     }     
  })
+
+
+
+
